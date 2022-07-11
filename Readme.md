@@ -1,7 +1,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-![Python version](https://img.shields.io/github/pipenv/locked/python-version/FacundoZeribinatti/carnegie-studio?label=Python&logo=Python&style=for-the-badge)
+![Python version](https://img.shields.io/label=Python&logo=Python&style=for-the-badge)
 
 <!-- Carnegie-studio -->
 ## Carnegie-studio
