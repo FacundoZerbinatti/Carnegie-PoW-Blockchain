@@ -1,7 +1,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-[![Python]](https://img.shields.io/label=Python&logo=Python&style=for-the-badge)
+[![Python](https://img.shields.io/label=Python&logo=Python&style=for-the-badge)]
 
 <!-- Carnegie-studio -->
 ## Carnegie-studio
