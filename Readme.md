@@ -1,6 +1,13 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<!-- Carnegie-studio -->
+## Carnegie-studio
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
