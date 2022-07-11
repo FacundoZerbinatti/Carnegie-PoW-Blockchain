@@ -9,22 +9,23 @@
 
 The objective of this project is to create a complete blockchain with the Proof of work consensus protocol.
 Carnegie-blockchain run with python 3.8.9 version and contains these functions:
-#Create a new block
+
+# Create a new block
 
 
-#Get previous block 
+# Get previous block 
 
 
-#Get block by index
+# Get block by index
 
 
-#Proof of work consensus
+# Proof of work consensus
 
 
-#Block hashing
+# Block hashing
 
 
-#Chain validator
+# Chain validator
 
 
 <!-- ABOUT THE TECNOLOGY -->
