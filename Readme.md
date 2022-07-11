@@ -1,7 +1,10 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-[![Python](https://img.shields.io/label=Python&logo=Python&style=for-the-badge)]
+[![GitHub Pipenv locked Python version][https://img.shields.io/label=Python&logo=Python&style=for-the-badge]][www.google.com]
+
+
+
 
 <!-- Carnegie-studio -->
 ## Carnegie-studio
