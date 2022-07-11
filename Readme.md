@@ -3,7 +3,7 @@
 
 ![Python version](https://img.shields.io/label=Python&logo=Python&style=for-the-badge)
 
-![GitHub Pipenv locked Python version](https://img.shields.io/label=Python&logo=Python&style=for-the-badge)
+![GitHub Pipenv locked Python version](https://img.shields.io/3.8.9/label=Python&logo=Python&style=for-the-badge)
 
 <!-- Carnegie-studio -->
 ## Carnegie-studio
